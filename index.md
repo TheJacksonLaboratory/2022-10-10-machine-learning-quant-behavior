@@ -221,10 +221,10 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
-<p id="roles">
-  <strong>Roles:</strong>
-  To learn more about the roles at the workshop (who will be doing what),
-  refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
+<p id="description">
+  <strong>Course description:</strong>
+  To learn more about this course,
+  refer to <a href="www.jax.org/autobehavior">the course page at JAX</a>.
 </p>
 
 {% comment %}
