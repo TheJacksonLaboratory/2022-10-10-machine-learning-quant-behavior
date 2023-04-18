@@ -298,7 +298,7 @@ of code below the Schedule `<h2>` header below with
 <h2 id="schedule">Schedule</h2>
 
 {% include none/schedule.html %}
-<a href="files/machine-learning-schedule-10-4.pdf">View a more detailed schedule</a>.
+<a href="files/machine-learning-schedule-10-4.pdf">View a more detailed schedule here</a>.
 
 {% comment %}
 Edit/replace the text above if you want to include a schedule table.
