@@ -224,7 +224,7 @@ Display the contact email address set in the configuration file.
 <p id="description">
   <strong>Course description:</strong>
   To learn more about this course,
-  refer to <a href="www.jax.org/autobehavior">the course page at JAX</a>.
+  refer to <a href="https://www.jax.org/autobehavior">the course page at JAX</a>.
 </p>
 
 {% comment %}
@@ -298,7 +298,7 @@ of code below the Schedule `<h2>` header below with
 <h2 id="schedule">Schedule</h2>
 
 {% include none/schedule.html %}
-
+<a href="files/machine-learning-schedule-10-4.pdf">View a more detailed schedule</a>.
 
 {% comment %}
 Edit/replace the text above if you want to include a schedule table.
